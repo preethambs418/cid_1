@@ -1,0 +1,2 @@
+Hello, I am Preetham BS.
+This is my first Git practical.
