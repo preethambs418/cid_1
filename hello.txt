@@ -1,2 +1,6 @@
 Hello, I am Preetham BS.
 This is my first Git practical.
+
+
+Git allows us to track changes in files.
+I am learning Git operations using VS Code.
